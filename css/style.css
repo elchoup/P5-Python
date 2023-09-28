@@ -18,7 +18,7 @@
 }
 
 .header-contain h1{
-    font-weight: lighter;
+    font-weight: bold;
     font-size:40px;
     margin-right: 50px;
 }
@@ -201,6 +201,19 @@
     color: white;
 }
 
+
+footer{
+    height: 80px;
+    background-color: #62757f;
+    margin-top: 50px;
+}
+
+footer p{
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    padding-top: 34px;
+}
 
 
 @media all and (max-width: 1040px) {
